@@ -1,0 +1,6 @@
+cluster_id,peak_x,peak_y,peak_z,cluster_mean,volume_mm,aal,desikan_killiany,harvard_oxford
+1.0,17.0,-96.82800006866455,9.929999828338623,5.94394297100631,3629.119210124016,43.45% Calcarine_R; 20.57% Cuneus_R; 15.89% Occipital_Mid_R; 14.44% Occipital_Sup_R,49.24% Right-Cerebral-White-Matter; 26.96% ctx-rh-lateraloccipital; 15.68% ctx-rh-pericalcarine; 6.71% Unknown,99.63% Right_Occipital_Pole
+2.0,-11.0,-99.7590000629425,3.0909998416900635,6.02800159831876,2772.906708419323,57.01% Occipital_Mid_L; 14.66% Calcarine_L; 12.01% Occipital_Sup_L; 7.47% no_label; 6.44% Occipital_Inf_L,47.99% Left-Cerebral-White-Matter; 36.94% ctx-lh-lateraloccipital; 10.67% Unknown,94.04% Left_Occipital_Pole
+3.0,16.0,-86.08100008964539,-12.541000127792358,5.806981478642373,653.8523563742638,68.47% Lingual_R; 31.39% Occipital_Inf_R,52.41% Right-Cerebral-White-Matter; 36.79% ctx-rh-lateraloccipital; 10.07% ctx-rh-lingual,55.62% Right_Occipital_Fusiform_Gyrus; 40.15% Right_Occipital_Pole
+4.0,-21.0,-96.82800006866455,-10.587000131607056,5.679129646374629,99.27101469039917,98.08% Occipital_Inf_L,96.15% Left-Cerebral-White-Matter,100.00% Left_Occipital_Pole
+5.0,-22.0,-92.92000007629395,-16.449000120162964,5.592895269393921,5.727173924446106,100.00% Lingual_L,100.00% Left-Cerebral-White-Matter,100.00% Left_Occipital_Pole

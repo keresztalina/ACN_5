@@ -1,0 +1,6 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+1.0,17.0,-96.82800006866455,9.929999828338623,6.598592281341553,3629.119210124016,Cuneus_R,Right-Cerebral-White-Matter,62.0% Right_Occipital_Pole
+2.0,-11.0,-99.7590000629425,3.0909998416900635,7.221109390258789,2772.906708419323,Occipital_Sup_L,ctx-lh-lateraloccipital,54.0% Left_Occipital_Pole
+3.0,16.0,-86.08100008964539,-12.541000127792358,6.45866584777832,653.8523563742638,Lingual_R,ctx-rh-lingual,39.0% Right_Occipital_Fusiform_Gyrus; 17.0% Right_Lingual_Gyrus
+4.0,-21.0,-96.82800006866455,-10.587000131607056,5.870943546295166,99.27101469039917,Occipital_Inf_L,Left-Cerebral-White-Matter,53.0% Left_Occipital_Pole; 5.0% Left_Lateral_Occipital_Cortex_inferior_division
+5.0,-22.0,-92.92000007629395,-16.449000120162964,5.637603282928467,5.727173924446106,Lingual_L,Left-Cerebral-White-Matter,41.0% Left_Occipital_Pole; 18.0% Left_Occipital_Fusiform_Gyrus; 5.0% Left_Lateral_Occipital_Cortex_inferior_division
